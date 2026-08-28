@@ -305,7 +305,6 @@
 	"wallbach" : "https://api.freifunkkarte.de/saek/de/wallbach/0/json",
 	"waren-mueritz" : "http://stats.4830.org/freifunk-mueritz.json",
 	"warmbach" : "https://api.freifunkkarte.de/rhf/de/warmbach/0/json",
-	"warstein" : "http://map.freifunk-moehne.de/api/warstein.json",
 	"weg" : "https://api.freifunkkarte.de/ssww/de/weg/0/json",
 	"wehr" : "https://api.freifunkkarte.de/rhf/de/wehr/0/json",
 	"weil-am-rhein" : "https://api.freifunkkarte.de/loe/de/weil-am-rhein/0/json",
