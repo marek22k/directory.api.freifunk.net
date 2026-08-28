@@ -269,7 +269,6 @@
 	"siegburg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/siegburg.json",
 	"siegen" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Siegen-api.json",
 	"solingen" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Solingen-api.json", 
-	"soest" : "http://map.freifunk-moehne.de/api/soest.json",
 	"st-georgen-im-schwarzwald" : "https://api.freifunkkarte.de/swb/de/sankt-georgen-im-schwarzwald/0/json",
 	"st-wendel" : "https://mgmt.saar.freifunk.net/data/api-st-wendel.json",
 	"stade" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/stade-api.json",
