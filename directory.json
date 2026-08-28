@@ -6,7 +6,6 @@
 	"altenkirchen": "https://freifunk-westerwald.de/api-ak.json",
 	"alzey" : "https://services.freifunk-suedwest.de/ffapi/FreifunkAlzey-Worms-api.json",
 	"ansbach" : "https://karte.freifunk-ansbach.de/data/ffapi.json",
-	"arnsberg" : "https://map.freifunk-moehne.de/images/arnsberg/arnsberg-api.json",
 	"aschaffenburg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/aschaffenburg.json",
 	"auerbach" : "https://mapdata.freifunk-vogtland.net/ffapi-AE.json",
 	"bad-bellingen" : "https://api.freifunkkarte.de/loe/de/bad-bellingen/0/json",
