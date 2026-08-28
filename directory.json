@@ -199,7 +199,6 @@
 	"neumuenster" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/neumuenster-api.json",
 	"neunkirchen" : "https://mgmt.saar.freifunk.net/data/api-neunkirchen.json",
 	"neunkirchen-seelscheid" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/neunkirchen.json",
-	"neustadt-aisch" : "https://karte.freifunk-neustadt-aisch.de/data/ffapi.json",
 	"neustadt-weinstrasse" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWeinstrasse-api.json",
 	"niedergebisbach" : "https://api.freifunkkarte.de/hotz/de/niedergebisbach/0/json",
 	"niederkassel" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/niederkassel.json",
