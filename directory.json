@@ -65,7 +65,6 @@
 	"efringen-kirchen" : "https://api.freifunkkarte.de/loe/de/efringen-kirchen/0/json",
 	"eggerbach" : "https://wiki.freifunk.net/images/9/9f/FreifunkEggerbach-api.json",
 	"ellefeld" : "https://mapdata.freifunk-vogtland.net/ffapi-ELL.json",
-	"eltville" : "https://www.freifunk-rtk.de/ffapi_rtk.json",
 	"emmendingen" : "https://api.freifunkkarte.de/ffem/de/emmendingen/0/json",
 	"emskirchen" : "https://karte.freifunk-emskirchen.de/data/ffapi.json",
 	"erfurt" : "https://api.erfurt.freifunk.net/freifunk-api.json",
