@@ -17,7 +17,6 @@
 	"badoldesloe" : "https://raw.githubusercontent.com/ffsh/api/main/badoldesloe.json",
 	"badreichenhall" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/badreichenhall.json",
 	"badsalzuflen" : "http://api.freifunk-lippe.de/freifunk/ffapi.json",
-	"ballenstedt" : "https://harz.freifunk.net/api.bal.json",
 	"bamberg" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/bamberg.json",
 	"beilngries" : "https://map.freifunk-altmuehltal.de/data/api/ffbei.json",
 	"berau" : "https://api.freifunkkarte.de/sswo/de/berau/0/json",
