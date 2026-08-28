@@ -280,7 +280,6 @@
 	"strittmatt" : "https://api.freifunkkarte.de/hotz/de/strittmatt/0/json",
 	"stuehlingen" : "https://api.freifunkkarte.de/wtk/de/stuehlingen/0/json",
 	"stuttgart" : "https://netinfo.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
-	"sundern" : "https://map.freifunk-moehne.de/images/sundern/sundern-api.json",
 	"sundhausen" : "http://www.evernet-eg.de/evernet.json",
 	"schwenningen-am-neckar" : "https://api.freifunkkarte.de/swb/de/schwenningen-am-neckar/0/json",
 	"sylt" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/sylt-api.json",
