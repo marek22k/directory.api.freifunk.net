@@ -84,7 +84,6 @@
 	"fuerstenwalde" : "https://wiki.freifunk.net/images/7/74/Fuerstenwalde-api.json",
 	"fuerth" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/fuerth.json",
 	"fulda" : "https://fulda.freifunk.net/FreifunkFulda-api.json",
-	"gardelegen" : "https://rawgit.com/FreifunkGardelegen/FreifunkGardelegenAPI/master/FreifunkGardelegen.json",
 	"gera" : "https://www.freifunk-gera-greiz.de/FreifunkGera-api.json",
 	"geroldshofstetten" : "https://api.freifunkkarte.de/sswo/de/geroldshofstetten/0/json",
 	"gifhorn" : "http://stats.4830.org/freifunk-gifhorn.json",
