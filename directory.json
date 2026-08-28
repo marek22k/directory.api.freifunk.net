@@ -66,7 +66,6 @@
 	"eggerbach" : "https://wiki.freifunk.net/images/9/9f/FreifunkEggerbach-api.json",
 	"ellefeld" : "https://mapdata.freifunk-vogtland.net/ffapi-ELL.json",
 	"emmendingen" : "https://api.freifunkkarte.de/ffem/de/emmendingen/0/json",
-	"emskirchen" : "https://karte.freifunk-emskirchen.de/data/ffapi.json",
 	"erfurt" : "https://api.erfurt.freifunk.net/freifunk-api.json",
 	"erkrath" : "https://raw.githubusercontent.com/Neanderfunk/communities/master/Erkrath-api.json",
 	"erlangen" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/erlangen.json",
