@@ -312,7 +312,6 @@
 	"weischlitz" : "https://mapdata.freifunk-vogtland.net/ffapi-WEI.json",
 	"welden" : "https://holzwinkel.freifunk.net/api.holzwinkel.freifunk.net.json",
 	"werne" : "https://raw.githubusercontent.com/ffdo/ffapi/master/werne.json",
-	"wernigerode" : "https://harz.freifunk.net/api.wr.json",
 	"wesel" : "https://raw.githubusercontent.com/Freifunk-Hamm/ffapi/master/wesel.json",
 	"weyher" : "https://services.freifunk-suedwest.de/ffapi/FreifunkWeyher-api.json",
 	"widum" : "https://api.freifunkkarte.de/ff3l/ch/widum/0/json",
