@@ -134,7 +134,6 @@
 	"karlsruhe" : "https://karlsruhe.freifunk.net/ffka.json",
 	"kavelstorf" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-kavelstorf.json",
 	"kiel" : "https://hopglass.freifunk.in-kiel.de/ffapi.json",
-	"kierspe" : "https://stats.4830.org/freifunk-kierspe.json",
 	"kitzingen" : "https://freifunk-kitzingen.de/Kitzingen-api.json",
 	"klein-basel" : "https://api.freifunkkarte.de/3land/ch/klein-basel/0/json",
 	"kleinhueningen" : "https://api.freifunkkarte.de/3land/ch/kleinhueningen/0/json",
