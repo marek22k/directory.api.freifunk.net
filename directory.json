@@ -266,7 +266,6 @@
 	"schwerin" : "https://api.opennet-initiative.de/freifunk/api.freifunk.net-schwerin.json",
 	"segeberg" : "https://raw.githubusercontent.com/Freifunk-Nord/nord-community-api/master/segeberg-api.json",
 	"segeten" : "https://api.freifunkkarte.de/hotz/de/segeten/0/json",
-	"selm" : "https://www.freifunk-selm.de/api/FreifunkSelm-api.json",
 	"siegburg" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/siegburg.json",
 	"siegen" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Siegen-api.json",
 	"solingen" : "https://raw.githubusercontent.com/Neanderfunk/communities/refs/heads/master/Solingen-api.json", 
