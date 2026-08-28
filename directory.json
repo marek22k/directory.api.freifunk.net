@@ -124,7 +124,6 @@
 	"himmelpfort" : "https://hksc.de/freifunk.himmelpfort.json",
 	"hoechenschwand" : "https://api.freifunkkarte.de/sswo/de/hoechenschwand/0/json",
 	"hof" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/hof.json",
-	"huenxe" : "https://freifunk-huenxe.de/api/FreifunkHuenxe-api.json",
 	"igelschlatt" : "https://api.freifunkkarte.de/sswo/de/igelschlatt/0/json",
 	"ilmenau" : "https://raw.githubusercontent.com/freifunk-ilmenau/freifunk-api-file/master/ffil.json",
 	"ingolstadt" : "https://api.freifunk-ingolstadt.de/api.json",
