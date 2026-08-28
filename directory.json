@@ -258,7 +258,6 @@
 	"saarbruecken" : "https://mgmt.saar.freifunk.net/data/api-saarbruecken.json",
 	"saarlouis" : "https://mgmt.saar.freifunk.net/data/api-saarlouis.json",
 	"saarpfalz" : "https://mgmt.saar.freifunk.net/data/api-saarpfalz.json",
-	"sankt andreasberg" : "https://harz.freifunk.net/api.sta.json",
 	"sanktaugustin" : "https://raw.githubusercontent.com/Freifunk-Rhein-Sieg/api-json/master/sankt-augustin.json",
 	"schmitzingen" : "https://api.freifunkkarte.de/ref/de/schmitzingen/0/json",
 	"schoenau-im-schwarzwald" : "https://api.freifunkkarte.de/wiese/de/schoenau-im-schwarzwald/0/json",
